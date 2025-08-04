@@ -57,13 +57,13 @@ client/
 
 2. **Install Python dependencies:**
    ```bash
-   # Install Flask and dependencies (already done in Replit)
+   # Install Flask and dependencies 
    pip install Flask Flask-CORS flask-socketio
    ```
 
 3. **Install Node.js dependencies:**
    ```bash
-   # Install frontend packages (already done in Replit)
+   # Install frontend packages 
    npm install
    ```
 
@@ -224,18 +224,9 @@ client/
 - **Bloom filters** for memory-efficient duplicate detection
 - **MinHeap/MaxHeap** for top-K song queries
 
-## 🤝 Contributing
 
-1. Fork the repository
-2. Create a feature branch
-3. Implement with proper data structure documentation
-4. Add comprehensive tests
-5. Submit a pull request
 
-## 📄 License
 
-This project is for educational purposes, demonstrating advanced data structures and algorithms in a practical application.
 
 ---
 
-**Built with ❤️ for Computer Science Education**
