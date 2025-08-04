@@ -69,12 +69,7 @@ client/
 
 ### Running the Application
 
-#### Method 1: Using the Replit Workflow (Recommended)
-1. Click the "Run" button in Replit
-2. This starts both frontend and backend automatically
-3. Access the app at the provided Replit URL
-
-#### Method 2: Manual Startup
+#### Method 1: Manual Startup
 1. **Start the Flask Backend:**
    ```bash
    python run_flask.py
