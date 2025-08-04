@@ -2,6 +2,8 @@
 
 A full-stack music playlist management application built with **Flask (Python)** backend and **React (TypeScript)** frontend, implementing advanced data structures and algorithms.
 
+live app: https://playwise.onrender.com/
+
 ## 🎯 Project Overview
 
 PlayWise demonstrates the practical implementation of core computer science data structures and algorithms in a real-world music application:
